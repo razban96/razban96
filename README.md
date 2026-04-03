@@ -1,8 +1,10 @@
-## Hi there 👋
-
+## Shabbat Shalom! 👋
+ • I simply like to build solutions for my personal problems
+ • Big fan of Cybersecurity & Kali Linux
+ • Wanna be the next Cristi Popesco 
+ • Big biceps btw 💪🏽
 <!--
 **razban96/razban96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
